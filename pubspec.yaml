@@ -13,7 +13,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  playing_cards_lib: ^0.0.1+1
+  playing_cards_lib: ^0.0.3+1
 
 
 dev_dependencies:
