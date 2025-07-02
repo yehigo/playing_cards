@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:playing_cards/playing_cards.dart';
-import 'package:playing_cards/src/views/rank_card_center.dart';
+import 'package:playing_cards_ui/playing_cards.dart';
+import 'package:playing_cards_ui/src/views/rank_card_center.dart';
 import 'package:playing_cards_lib/playing_cards_lib.dart';
 
 Map<Suit, Widget Function(BuildContext context)> defaultSuitBuilders = {
