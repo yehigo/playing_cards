@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:playing_cards/playing_cards.dart';
+import 'package:playing_cards_lib/playing_cards_lib.dart';
 
 void main() {
   runApp(MaterialApp(

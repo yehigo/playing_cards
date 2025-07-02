@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
-import 'package:playing_cards/src/model/card_value.dart';
-import 'package:playing_cards/src/model/suit.dart';
+import 'package:playing_cards_lib/playing_cards_lib.dart';
+
 
 /// These styles are specific to a suit.
 class SuitStyle {

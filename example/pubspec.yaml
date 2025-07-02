@@ -30,6 +30,8 @@ dependencies:
 
   playing_cards:
     path: ../
+  playing_cards_lib:
+    path: ../../playing_cards_lib
 
 dev_dependencies:
   flutter_test:
