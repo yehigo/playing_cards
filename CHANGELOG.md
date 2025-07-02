@@ -1,3 +1,13 @@
+
+## [0.5.1+12] - 2025-07-02
+
+Modularized the codebase by separating concerns into two distinct packages:
+
+1. Server-side package (playing_cards_lib): Handles core logic and functionality.
+2. Client-side package (playing_cards_ui): Focuses on user interface and user experience.
+
+This separation enhances maintainability, scalability, and reusability.
+
 ## [0.4.1+11] - 2023-08-02
 
 - Fix for material3 card color (more customizability)
