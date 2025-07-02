@@ -135,10 +135,10 @@ packages:
     dependency: "direct main"
     description:
       name: playing_cards_lib
-      sha256: "993c6f1c9e39157c2572e1a1a7bc754b3c6acb6cc86a5e66f902828daf04ebad"
+      sha256: e1072bd1968a01caaad80ce8f0b36d1f8419ee5e01db679196eb0dec8537840a
       url: "https://pub.dev"
     source: hosted
-    version: "0.0.1+1"
+    version: "0.0.3+1"
   sky_engine:
     dependency: transitive
     description: flutter
