@@ -1,5 +1,5 @@
 
-## [0.5.2+12] - 2025-07-02
+## [0.5.3+12] - 2025-07-02
 
 Modularized the codebase by separating concerns into two distinct packages:
 
