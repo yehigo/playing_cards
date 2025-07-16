@@ -1,4 +1,7 @@
 
+## [0.5.3+13] - 2025-07-16
+1. Fix for asset image loading.
+
 ## [0.5.3+12] - 2025-07-02
 
 Modularized the codebase by separating concerns into two distinct packages:
