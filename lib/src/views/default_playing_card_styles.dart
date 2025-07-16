@@ -165,7 +165,7 @@ PlayingCardViewStyle defaultPlayingCardStyles = PlayingCardViewStyle(
       ),
       Suit.hearts: SuitStyle(
         builder: defaultSuitBuilders[Suit.hearts],
-        style: const TextStyle(fontSize: 12, color: Colors.red),
+        style: const TextStyle(fontSize: 12, color: Colors.red, fontWeight: FontWeight.w900),
         cardContentBuilders: getContentBuilders(
           Suit.hearts,
           defaultSuitBuilders[Suit.hearts],
@@ -174,7 +174,7 @@ PlayingCardViewStyle defaultPlayingCardStyles = PlayingCardViewStyle(
       ),
       Suit.diamonds: SuitStyle(
         builder: defaultSuitBuilders[Suit.diamonds],
-        style: const TextStyle(fontSize: 12, color: Colors.red),
+        style: const TextStyle(fontSize: 12, color: Colors.red, fontWeight: FontWeight.w900),
         cardContentBuilders: getContentBuilders(
           Suit.diamonds,
           defaultSuitBuilders[Suit.diamonds],
@@ -183,7 +183,7 @@ PlayingCardViewStyle defaultPlayingCardStyles = PlayingCardViewStyle(
       ),
       Suit.spades: SuitStyle(
         builder: defaultSuitBuilders[Suit.spades],
-        style: const TextStyle(fontSize: 12, color: Colors.black),
+        style: const TextStyle(fontSize: 12, color: Colors.black, fontWeight: FontWeight.w900),
         cardContentBuilders: getContentBuilders(
           Suit.spades,
           defaultSuitBuilders[Suit.spades],
@@ -192,7 +192,7 @@ PlayingCardViewStyle defaultPlayingCardStyles = PlayingCardViewStyle(
       ),
       Suit.joker: SuitStyle(
         builder: defaultSuitBuilders[Suit.joker],
-        style: const TextStyle(fontSize: 12, color: Colors.black),
+        style: const TextStyle(fontSize: 12, color: Colors.black, fontWeight: FontWeight.w900),
         cardContentBuilders: getContentBuilders(
           Suit.joker,
           defaultSuitBuilders[Suit.joker],
